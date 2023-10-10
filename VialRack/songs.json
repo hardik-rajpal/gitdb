@@ -2,7 +2,9 @@
     "carousel": [],
     "groups": [
         {
-            "Van Morrison Songs": []
+            "title": "Van Morrison Songs",
+            "songs":[0],
+            "text":"Underrated Irish homie."
         }
     ],
     "songs": [
