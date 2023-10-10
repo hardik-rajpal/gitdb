@@ -3,7 +3,7 @@
     "groups": [
         {
             "title": "Van Morrison Songs",
-            "songs":[0],
+            "songs":[0, 1],
             "text":"Underrated Irish homie."
         }
     ],
@@ -13,6 +13,12 @@
             "link": "https://youtu.be/3UUWkr4FUlo?si=Kf8VNWZDw8NOEVJ2",
             "title": "Days like this",
             "text": "Gives the same vibe as ‘This too shall pass.’"
-        }
-    ]
+        },
+
+{
+            "id": 1,
+            "link": "https://youtu.be/QGkQ4mPiyoU&si=ofLQIu4nWDvn1F-n",
+            "title": "Tupelo Honey",
+            "text": "7 oceans lmao."
+        }    ]
 }
