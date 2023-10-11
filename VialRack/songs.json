@@ -6,7 +6,9 @@
             "songs": [
                 0,
                 1,
-                2
+                2,
+                4,
+                5
             ],
             "text": "Underrated Irish homie."
         },
@@ -42,6 +44,18 @@
             "link":"https://youtu.be/USQ697oqkaw",
             "title":"Backstreets",
             "text":"Angsty nostalgic song. Can't tell if Terry's a guy or not."
+        },
+        {
+            "id":4,
+            "link":"https://youtu.be/bXoBnmJtqhY",
+            "title":"Wild Night",
+            "text":"Captures that unqiue feeling of 7pm on a Friday."
+        },
+        {
+            "id":5,
+            "link":"https://youtu.be/EFXRAfWDBmk",
+            "title":"These are the days",
+            "text":"Not to be confused with Days like this."
         }
     ]
 }
