@@ -3,8 +3,19 @@
     "groups": [
         {
             "title": "Van Morrison Songs",
-            "songs":[0, 1],
-            "text":"Underrated Irish homie."
+            "songs": [
+                0,
+                1,
+                2
+            ],
+            "text": "Underrated Irish homie."
+        },
+        {
+            "title":"Bruce Springsteen Songs",
+            "songs":[
+                3
+            ],
+            "text":"Not so underrated New Jersey god of rock."
         }
     ],
     "songs": [
@@ -14,11 +25,23 @@
             "title": "Days like this",
             "text": "Gives the same vibe as ‘This too shall pass.’"
         },
-
-{
+        {
             "id": 1,
             "link": "https://youtu.be/QGkQ4mPiyoU",
             "title": "Tupelo Honey",
             "text": "7 oceans lmao."
-        }    ]
+        },
+        {
+            "id":2,
+            "link":"https://youtu.be/AYqJtqyeilE",
+            "title":"And It Stoned Me",
+            "text":"Nostalgic song around a rainy scene."
+        },
+        {
+            "id":3,
+            "link":"https://youtu.be/USQ697oqkaw",
+            "title":"Backstreets",
+            "text":"Angsty nostalgic song. Can't tell if Terry's a guy or not."
+        }
+    ]
 }
