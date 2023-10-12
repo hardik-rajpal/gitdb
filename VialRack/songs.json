@@ -4,7 +4,7 @@
         {
             "title":"Warren Zevon",
             "songs":[
-                6,7,8
+                6,7,8,9,10,11,12
             ],
             "text":"Underrated, versatile rock singer-songwriter. 'Above and beyond the Rock and Roll Hall of Fame' - Dave Letterman."
         },
@@ -81,6 +81,30 @@
             "link":"https://youtu.be/6xyuQG0IyGs",
             "title":"Carmelita",
             "text":"Smith Corona's a typewriter brand. Is it about a man selling his passions to serve his addictions?"
+        },
+        {
+            "id":9,
+            "link":"https://youtu.be/GKr7ucFWYrc",
+            "title":"Nobody's In Love This Year.",
+            "text":"Nobody wants to try."
+        },
+        {
+            "id":10,
+            "link":"https://youtu.be/IfsT_c-PZXg",
+            "title":"Things To Do In Denver When You're Dead.",
+            "text":"Still figuring out what this is about."
+        },
+        {
+            "id":11,
+            "link":"https://youtu.be/tSRspHGcrhU",
+            "title":"Mr. Bad Example",
+            "text":"'Laying tactless stripping, and housewives by the score.' A song like this is appealing when you spend your whole life being a good example. I hope potential recruiters aren't reading this."
+        },
+        {
+            "id":12,
+            "link":"https://youtu.be/RMTKb-pgxGI",
+            "title":"Keep Me In Your Heart For A While.",
+            "text":"Love the similes in this."
         }
     ]
 }
