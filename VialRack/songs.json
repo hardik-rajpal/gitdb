@@ -2,7 +2,14 @@
     "carousel": [],
     "groups": [
         {
-            "title": "Van Morrison Songs",
+            "title":"Warren Zevon",
+            "songs":[
+                6,7,8
+            ],
+            "text":"Underrated, versatile rock singer-songwriter.. 'Above and beyond the Rock and Roll Hall of Fame' - Dave Letterman."
+        },
+        {
+            "title": "Van Morrison",
             "songs": [
                 0,
                 1,
@@ -13,7 +20,7 @@
             "text": "Underrated Irish homie."
         },
         {
-            "title":"Bruce Springsteen Songs",
+            "title":"Bruce Springsteen",
             "songs":[
                 3
             ],
@@ -56,6 +63,24 @@
             "link":"https://youtu.be/EFXRAfWDBmk",
             "title":"These are the days",
             "text":"Not to be confused with Days like this."
+        },
+        {
+            "id":6,
+            "link":"https://youtu.be/ehYvseT27c4",
+            "title":"Poor Poor Pitiful Me",
+            "text":"Sometimes, just sometimes, I think I get what he's saying."
+        },
+        {
+            "id":7,
+            "link":"https://youtu.be/F2HH7J-Sx80",
+            "title":"Lawyers, Guns and Money",
+            "text":"Really love the 'Dad, get me out of this' part. Some other versions have him saying, 'Dad, get me out of this one' with a different intonation."
+        },
+        {
+            "id":8,
+            "link":"https://youtu.be/6xyuQG0IyGs",
+            "title":"Carmelita",
+            "text":"Smith Corona's a typewriter brand. Is it about a man selling his passions to serve his addictions?"
         }
     ]
 }
