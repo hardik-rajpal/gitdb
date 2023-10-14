@@ -25,6 +25,13 @@
                 3
             ],
             "text":"Not so underrated New Jersey god of rock."
+        },
+        {
+            "title":"Bob Seger",
+            "songs":[
+                13,14,15
+            ],
+            "text":"Looking for more of his stuff."
         }
     ],
     "songs": [
@@ -105,6 +112,24 @@
             "link":"https://youtu.be/RMTKb-pgxGI",
             "title":"Keep Me In Your Heart For A While.",
             "text":"Love the similes in this."
+        },
+        {
+            "id":13,
+            "link":"https://youtu.be/2vRsEC65NTA",
+            "title":"Against the Wind",
+            "text":"'Wish I didn't know now what I didn't know then.'"
+        },
+        {
+            "id":14,
+            "link":"https://youtu.be/UhuVwVpr3WY",
+            "title":"Hollywood Nights",
+            "text":"Makes want to make sure I don't end up too far from home."
+        },
+        {
+            "id":15,
+            "link":"https://youtu.be/uZQR3KqvYPc",
+            "title":"We've Got Tonight",
+            "text":"I've exhausted my caption idea set."
         }
     ]
 }
